@@ -24,7 +24,7 @@ export const ContactSection = () => {
 				{/* Contact Buttons */}
 				<div className="flex flex-col sm:flex-row justify-center gap-4 mb-8">
 					<a
-						href="mailto:contact@example.com"
+						href="mailto:protikprotik49@gmail.com"
 						className="inline-flex items-center justify-center gap-2 px-6 py-3 bg-gradient-to-r from-blue-500 to-purple-500 rounded-lg font-medium hover:opacity-90 transition-opacity"
 					>
 						<svg className="w-5 h-5" fill="currentColor" viewBox="0 0 20 20">
